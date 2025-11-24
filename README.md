@@ -15,3 +15,4 @@ I love exploring new ideas and building things with code.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Berry7028&theme=dark)](https://git.io/streak-stats)
 
 # Portfolio in progress!
+![portfolio sample](portfolio-sample.png)
