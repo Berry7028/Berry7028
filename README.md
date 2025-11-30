@@ -2,7 +2,7 @@
 
 ## About me
 - Age: 16
-- Favorite programming language: Lua 🐍  
+- Favorite programming language: 🐍  
 - Currently learning:
   - Other programming languages (TypeScript, Swift)
   - Spoken languages in addition to English
