@@ -4,7 +4,6 @@
 - Age: 16
 - Favorite programming language: 🐍  
 - Currently learning:
-  - Other programming languages (TypeScript, Swift)
   - Spoken languages in addition to English
 
 ## Interests
@@ -14,5 +13,3 @@ I love exploring new ideas and building things with code.
 ## GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=Berry7028&theme=dark)](https://git.io/streak-stats)
 
-# Portfolio in progress!
-![portfolio sample](portfolio-sample.png)
