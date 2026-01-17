@@ -11,4 +11,4 @@ I am particularly interested in machine learning (ML), and I am studying it enth
 I love exploring new ideas and building things with code.
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Berry7028&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Berry7028&theme=gruvbox)
