@@ -1,3 +1,3 @@
-```
-hello world
+```pyyhon
+print("hello world")
 ```
