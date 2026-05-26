@@ -41,11 +41,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## GitHub Activity
+## GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Berry7028&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Berry7028 GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berry7028&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Berry7028-181717?style=flat&logo=github)](https://github.com/Berry7028)
