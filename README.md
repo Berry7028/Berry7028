@@ -44,3 +44,9 @@
 ## GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-Berry7028-181717?style=flat&logo=github)](https://github.com/Berry7028)
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Berry7028&theme=transparent&hide_border=true" alt="Berry7028 GitHub streak" />
+
+</div>
