@@ -2,7 +2,6 @@
 
 # Kouta / Berry7028
 
-Webアプリケーション開発を中心に、使いやすいUIと保守しやすい仕組みづくりに取り組んでいます。
 
 [![GitHub followers](https://img.shields.io/github/followers/Berry7028?style=flat&logo=github&label=Followers)](https://github.com/Berry7028)
 [![Profile views](https://komarev.com/ghpvc/?username=Berry7028&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Berry7028)
