@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kouta / Berry7028
+# kouta / Berry7028
 
 
 [![GitHub followers](https://img.shields.io/github/followers/Berry7028?style=flat&logo=github&label=Followers)](https://github.com/Berry7028)
@@ -43,8 +43,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ## GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-Berry7028-181717?style=flat&logo=github)](https://github.com/Berry7028)
 
 <div align="center">
 
